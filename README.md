@@ -21,4 +21,10 @@ http:juego secreto.com
 
 ##🖼️ Vista Previa
 ![Captura de pantalla](assets/captura-de-pantalla.jpeg)
+
+## Hecho por:
+
+### yhoni-reyes ![logo](assets/bender-el-volteado.png)
+
+### Linkedin: https://www.linkedin.com/in/jonathan-israel-reyes-m%C3%A9ndez-257b58318/
  
