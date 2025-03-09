@@ -20,5 +20,5 @@ http:juego secreto.com
 4. Listo! quien es tu amigo secreto..?
 
 ##🖼️ Vista Previa
-![Captura de pantalla](assets/amigo-secreto-github.jpeg)
+![Captura de pantalla](assets/captura-de-pantalla.jpeg)
  
