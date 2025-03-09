@@ -14,7 +14,7 @@ Este proyecto es una aplicación que permite ingresar nombres de amigos en una l
 
 ## 🎲 Cómo usarlo
 1. Ingresa en este enlace
-http:juego secreto.com
+https://challenge-amigo-secreto-esp-main2.vercel.app/
 2. Ingresa el nombre de por lo menos 2 amigos
 3. Da click en sortear amigos
 4. Listo! quien es tu amigo secreto..?
